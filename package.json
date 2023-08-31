@@ -1,0 +1,32 @@
+{
+  "name": "reactjs-development-pack",
+  "displayName": "ReactJS Development Pack",
+  "description": "A simple yet effective development extension pack for collaborative coding with reactjs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "albert.TabOut", 
+    "burkeholland.simple-react-snippets", 
+    "christian-kohler.npm-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "EditorConfig.EditorConfig", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-rename-tag", 
+    "GitHub.codespaces", 
+    "GitHub.github-vscode-theme", 
+    "github.vscode-github-actions", 
+    "GitHub.vscode-pull-request-github", 
+    "ms-vsliveshare.vsliveshare", 
+    "msjsdiag.vscode-react-native", 
+    "PKief.material-icon-theme", 
+    "softwaredotcom.swdc-vscode", 
+    "vincaslt.highlight-matching-tag", 
+    "wmaurer.change-case"
+  ]
+}
